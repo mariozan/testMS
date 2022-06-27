@@ -10,6 +10,7 @@ if(isset($_POST)){
         session_start();
         $_SESSION["logged"] = true;
         header('Location: ../view/movies.php');
-
+    }else{
+        header('Location: ../view/login.php');
     }
 }

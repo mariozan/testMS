@@ -1,14 +1,1 @@
-{
-	"data": [{
-		"username": "mariozan",
-		"email": "marioal1992@hotmail.com",
-		"phone": "3147146727",
-		"password": "Mario123"
-	}, {
-		"username": "juan",
-		"email": "juan@correo.com",
-		"phone": "31452214",
-		"password": "e99a18c428cb38d5f260853678922e03"
-	}
-]
-}
+{"data":[{"username":"mariozan","email":"marioal1992@hotmail.com","phone":"3147146727","password":"e99a18c428cb38d5f260853678922e03"},{"username":"juan","email":"juan@correo.com","phone":"31452214","password":"e99a18c428cb38d5f260853678922e03"},{"username":"carlos","email":"pedro@correo.com","phone":"+5741244555","password":"fc1acf954bb36a90080c017a8d539823"}]}
